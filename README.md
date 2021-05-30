@@ -1,0 +1,2 @@
+# DigitRecognizer
+ OpenStraum CNN implementation
